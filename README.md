@@ -10,8 +10,7 @@
 <br/>
 
 <a href="https://github.com/ilham1997">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ilham1997&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham1997&theme=buefy&layout=compact" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=ilham1997&theme=buefy&show_icons=true" />
 </a>
 
 <br/>
@@ -19,7 +18,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/syedammarilyas/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-syedammarilyas-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/muhamad-ilham-sutrisna/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-muhamad-ilham-sutrisna-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/ilhamSutrisna1009/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-muhamad-ilham-sutrisna-blue?style=flat-square&logo=instagram"></a>
 </p>
 ------
