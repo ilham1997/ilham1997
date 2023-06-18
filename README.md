@@ -5,7 +5,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Informatics-University of Pelita Bangsa.
 - 💼 &nbsp; Sinergi Cakra Sinatria.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
 
 <br/>
 
